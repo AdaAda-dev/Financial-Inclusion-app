@@ -21,7 +21,7 @@ st.title("FINANCIAL INCLUSION")
 
 # Import picture
 from PIL import Image
-image = Image.open("C:\\Users\\ADANNA\\Downloads\\UNUZ4zR - Imgur.JPG")
+image = Image.open("UNUZ4zR - Imgur.JPG")
 
 st.image(image, width = 500)
 
